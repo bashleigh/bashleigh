@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello githubz
+
+I'm a software developer for @homeservenow and @PurpleDuck. I'm focusing on being a TypeScript guru at the moment. I'd love to start doing some video tutorials to help people build their projects :) 
+
+I'm a speaker at Colchester Digital and I love @nest/nestjs!
 
 <!--
 **bashleigh/bashleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
