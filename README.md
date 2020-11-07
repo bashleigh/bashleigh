@@ -1,12 +1,6 @@
 ### About
 
-I'm a software developer for @homeservenow and @PurpleDuck. I'm focusing on being a TypeScript guru at the moment. I'd love to start doing some video tutorials to help people build their projects :) 
-
-I'm a speaker at Colchester Digital and I love @nest/nestjs!
-
-#### Currently working on
-
-I'm currently working on [@homeservenow/serverless-aws-handler](https://github.com/homeservenow/serverless-aws-handler) which is a handy handler wrapper for lambdas handlers. I'd love some help/feed back on this idea! I'm trying to make it a heavily typed unopinionated flow similar to a lot of RESTful pattern adhering frameworks!
+I'm a software developer for @Ruddr. I'm focusing on being a TypeScript guru at the moment. I'd love to start doing some video tutorials to help people build their projects :) 
 
 <!--
 **bashleigh/bashleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
