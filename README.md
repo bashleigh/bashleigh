@@ -1,6 +1,9 @@
 ### About
 
-I'm a software developer for @Ruddr. I'm focusing on being a TypeScript guru at the moment. I'd love to start doing some video tutorials to help people build their projects :) 
+./
+../
+src/
+-- hello.md
 
 <!--
 **bashleigh/bashleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
